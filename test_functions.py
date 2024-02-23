@@ -1,4 +1,4 @@
-from function import add, subtract, multiply, devision
+from function import add, subtract, multiply
 import pytest
 
 
